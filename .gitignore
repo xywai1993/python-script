@@ -30,7 +30,6 @@ test/f1996837520.jpg
 test/f2043269320.jpg
 test/f2049322032.jpg
 test/f2049344592.jpg
-dist/move.exe
 dist/move.zip
 .vscode/settings.json
 __pycache__/move.cpython-38.pyc
